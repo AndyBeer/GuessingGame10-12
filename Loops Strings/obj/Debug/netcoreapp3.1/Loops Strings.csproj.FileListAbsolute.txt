@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\bin\Debug\netcoreapp3.1\Loops Strings.exe
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\bin\Debug\netcoreapp3.1\Loops Strings.deps.json
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\bin\Debug\netcoreapp3.1\Loops Strings.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\bin\Debug\netcoreapp3.1\Loops Strings.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\bin\Debug\netcoreapp3.1\Loops Strings.dll
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\bin\Debug\netcoreapp3.1\Loops Strings.pdb
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.dll
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.pdb
+C:\Users\abeer\source\repos\Labs\Extra Stuff 10.8\Loops Strings\Loops Strings\obj\Debug\netcoreapp3.1\Loops Strings.genruntimeconfig.cache
